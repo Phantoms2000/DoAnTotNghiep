@@ -1,0 +1,2 @@
+Tài khoản kết nối cơ sở dữ liệu qua SQL Server: sa
+Mật khẩu đăng nhập tài khoản sa kết nối cơ sở dữ liệu: conchocun!@#456
